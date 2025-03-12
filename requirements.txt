@@ -8,3 +8,5 @@ pandas
 seaborn
 matplotlib
 xgboost
+torch
+tensorflow==2.12
